@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project_Server\CS408Project_Server\bin\Debug\CS408Project_Server.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project_Server\CS408Project_Server\bin\Debug\CS408Project_Server.exe
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project_Server\CS408Project_Server\bin\Debug\CS408Project_Server.pdb
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project_Server\CS408Project_Server\obj\Debug\CS408Project_Server.Form1.resources
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project_Server\CS408Project_Server\obj\Debug\CS408Project_Server.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project_Server\CS408Project_Server\obj\Debug\CS408Project_Server.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project_Server\CS408Project_Server\obj\Debug\CS408Project_Server.exe
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project_Server\CS408Project_Server\obj\Debug\CS408Project_Server.pdb
+C:\Users\HP\documents\visual studio 2012\Projects\CS408Project_Server\CS408Project_Server\obj\Debug\CS408Project_Server.csprojResolveAssemblyReference.cache

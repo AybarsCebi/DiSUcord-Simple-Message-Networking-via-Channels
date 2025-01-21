@@ -1,0 +1,27 @@
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project\CS408Project\bin\Debug\CS408Project.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project\CS408Project\bin\Debug\CS408Project.exe
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project\CS408Project\bin\Debug\CS408Project.pdb
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project\CS408Project\obj\Debug\CS408Project_Client.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project\CS408Project\obj\Debug\CS408Project.Form1.resources
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project\CS408Project\obj\Debug\CS408Project.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project\CS408Project\obj\Debug\CS408Project_Client.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project\CS408Project\obj\Debug\CS408Project.exe
+c:\users\hp\documents\visual studio 2012\Projects\CS408Project\CS408Project\obj\Debug\CS408Project.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408Project_Client\CS408Project\bin\Debug\CS408Project.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408Project_Client\CS408Project\obj\Debug\CS408Project.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408Project_Client\CS408Project\obj\Debug\CS408Project.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408Project_Client\CS408Project\bin\Debug\CS408Project.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408Project_Client\CS408Project\bin\Debug\CS408Project.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408Project_Client\CS408Project\obj\Debug\CS408Project_Client.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408Project_Client\CS408Project\obj\Debug\CS408Project.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408Project_Client\CS408Project\obj\Debug\CS408Project.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408Project_Client\CS408Project\obj\Debug\CS408Project_Client.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408 Project\CS408Project_Client\CS408Project\bin\Debug\CS408Project.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408 Project\CS408Project_Client\CS408Project\obj\Debug\CS408Project.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408 Project\CS408Project_Client\CS408Project\obj\Debug\CS408Project.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408 Project\CS408Project_Client\CS408Project\bin\Debug\CS408Project.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408 Project\CS408Project_Client\CS408Project\bin\Debug\CS408Project.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408 Project\CS408Project_Client\CS408Project\obj\Debug\CS408Project_Client.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408 Project\CS408Project_Client\CS408Project\obj\Debug\CS408Project.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408 Project\CS408Project_Client\CS408Project\obj\Debug\CS408Project.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\CS408 Project\CS408Project_Client\CS408Project\obj\Debug\CS408Project_Client.csproj.GenerateResource.Cache
